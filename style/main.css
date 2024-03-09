@@ -1,0 +1,11 @@
+h1{
+    color: brown;
+} 
+.main_text  {color: blue;}
+.btn_link {
+    color: brown;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
